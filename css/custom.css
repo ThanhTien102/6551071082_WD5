@@ -1,0 +1,51 @@
+.container{
+    display: flex;
+    position: relative;
+}
+.banner{
+    width:33%;
+    
+    padding-right: 10px;
+}
+.NN{
+    text-align: center;
+    background-color: brown;
+    color: white;
+    width:120px;
+    height:30px;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+.con1{
+    position: absolute;
+    left: 20px;
+    top:20px;
+    font-size: 23px;
+}
+.con11{
+    position:absolute;
+    left:20px;
+    top:50px;   
+}
+.con2{
+    position: absolute;
+    left: 410px;
+    top:20px;
+    font-size: 23px;
+}
+.con21{
+    position:absolute;
+    left:410px;
+    top:50px;   
+}
+.con3{
+    position: absolute;
+    left: 800px;
+    top:20px;
+    font-size: 23px;
+}
+.con31{
+    position:absolute;
+    left:800px;
+    top:50px;   
+}
